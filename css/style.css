@@ -1,0 +1,36 @@
+body{
+    background-color: blue;
+    color: white;
+}
+
+header{
+    background-color: mediumblue;
+    text-align: center;
+    height: 150px;
+}
+
+footer{
+    background-color: mediumblue;
+    text-align: center;
+    height: 100px;
+}
+
+#tabblad1{
+    background-color: aqua;
+    text-align: center;
+}
+
+#tabblad2{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#tabblad3{
+    background-color: cyan;
+    text-align: center;
+}
+
+#tabblad4{
+    background-color: rgba(0, 255, 255, 0.904);
+    text-align: center;
+}
